@@ -4,7 +4,7 @@ A simple, fast, and interactive AI chatbot application built with **Python**, **
 
 ## ✨ Features
 * **Conversational UI:** Clean, ChatGPT-like interface built with Streamlit.
-* **Smart AI Responses:** Powered by Google's fast and advanced `gemini-1.5-flash` model.
+* **Smart AI Responses:** Powered by Google's fast and advanced `gemini-2.5-flash` model.
 * **Chat History:** Remembers the context of the conversation using Streamlit session state.
 * **Easy Deployment:** Ready to be deployed on Streamlit Community Cloud.
 
